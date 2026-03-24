@@ -1,0 +1,12 @@
+numbers = list(range(1,11))
+print(numbers)
+numbers = list(range(11))
+print(numbers)
+numbers = list(range(0,20,2))
+print(numbers)
+numbers = list(range(10,-5,-1))
+print(numbers)
+for i in range(1,11):
+    print(i,"iteration")
+i = int(input("give number"))
+print(i)
